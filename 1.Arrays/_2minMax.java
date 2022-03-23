@@ -15,7 +15,8 @@ public class _2minMax {
         int start = 0;
         int end = Arr.length-1;
 
-        pair p = recursive(start, end, Arr);
+        pair p = new pair();
+        p = recursive(start, end, Arr);
         return p;
     }
 

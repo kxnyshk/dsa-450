@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "1.Arrays",
-        "11.Heap"
+        "11.Heap",
+        "0.testing"
     ]
 }

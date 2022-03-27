@@ -76,7 +76,7 @@ public class _20rearrArrOrder {
             int save = Arr[end];
             int cnt = end;
             
-            while(cnt >= start){
+            while(cnt > start){
                 Arr[cnt] = Arr[cnt - 1];
                 cnt--;
             }

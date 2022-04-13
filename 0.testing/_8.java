@@ -17,7 +17,7 @@ public class _8 {
         }
         
         for(int i=0; i<m; i++){
-            if(!HM.containsKey(a2[i])){
+            if(!HM.containsKey((long) a2[i])){
                 return "No";
             }
         }

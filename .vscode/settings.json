@@ -2,6 +2,9 @@
     "java.project.sourcePaths": [
         "1.Arrays",
         "11.Heap",
-        "0.testing"
-    ]
+        "0.testing",
+        "2.Matrix"
+    ],
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }

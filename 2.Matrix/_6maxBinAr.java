@@ -17,11 +17,7 @@ public class _6maxBinAr {
         //               {0,1,1,1},
         //               {0,0,1,0},
         //               {0,1,1,1},};
-        // int[][] M3 = {{1,1,1},
-        //               {1,0,1},
-        //               {0,0,0},
-        //               {1,1,0},};
-
+        
         int Max = maxAreaBinary(M1);
         System.out.println(Max);
     }

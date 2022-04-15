@@ -14,12 +14,12 @@ public class _1Spiral{
                       {5, 6, 7, 8},
                       {9, 10, 11, 12},
                       {13, 14, 15,16}};
-        int[][] M2 = {{1, 2, 3, 4},
-                      {5, 6, 7, 8},
-                      {9, 10, 11, 12}};
+        // int[][] M2 = {{1, 2, 3, 4},
+        //               {5, 6, 7, 8},
+        //               {9, 10, 11, 12}};
 
         ArrayList<Integer> L = new ArrayList<Integer>();
-        L = spiralTraversal(M2);
+        L = spiralTraversal(M1);
         System.out.println(Arrays.toString(L.toArray()));
     }
 

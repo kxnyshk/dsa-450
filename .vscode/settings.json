@@ -4,7 +4,8 @@
         "11.Heap",
         "0.testing",
         "2.Matrix",
-        "zMisc"
+        "zMisc",
+        "3.Strings"
     ],
     "C_Cpp.errorSquiggles": "Enabled",
     "C_Cpp.intelliSenseEngineFallback": "Enabled"

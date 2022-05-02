@@ -1,6 +1,7 @@
 public class _4checkRot {
 
     // https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1
+    // https://leetcode.com/problems/rotate-string/
     // TC : O(N)
     // SC : O(1)
 

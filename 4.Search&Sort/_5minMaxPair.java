@@ -5,7 +5,7 @@ public class _5minMaxPair {
     // SC : O(logN)
     
     public static void main(String[] args) {
-        int[] Arr = {1000, 11, 445, 1, 330, 3000};
+        int[] Arr = {1000, 11, 445, 10, 330, 3000};
         pair p = findMinMax(Arr);
         System.out.println(p.min);
         System.out.println(p.max);

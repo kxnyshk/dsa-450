@@ -8,7 +8,7 @@ public class _2fixedPointArray{
 
     public static void main(String[] args) {
         
-        int[] Arr = {15, 2, 45, 12, 7};
+        int[] Arr = {1, 12, 45, 12, 7};
         System.out.println(findFixedPoint(Arr).toString());
     }
 

@@ -10,12 +10,8 @@ public class _11fourSumLeetCode {
     
     public static void main(String[] args) {
         
-        int[] Arr = {1,0,-1,0,-2,2};
-        int X = 0;
-        // int[] Arr = {1000000000,1000000000,1000000000,1000000000};
-        // int X = -294967296;
-        // int[] Arr = {-1000000000,-1000000000,1000000000,-1000000000,-1000000000};
-        // int X = 294967296;
+        int[] Arr = {-1000000000,-1000000000,1000000000,-1000000000,-1000000000};
+        int X = 294967296;
         System.out.println(FourSum(Arr, X).toString());
     }
 
